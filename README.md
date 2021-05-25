@@ -20,13 +20,13 @@
 
 <br>
 
-## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">Programming Languages</span><span style="color:#3a87ce">></span>
+## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">'Programming Languages'</span><span style="color:#3a87ce">></span>
 ![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
 ![C++](https://img.shields.io/static/v1?message=Cpp&logo=c%2B%2B&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
 ![Java](https://img.shields.io/static/v1?message=java&logo=java&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
 ## <span style="color:#3a87ce"><*/Skills*></span>
 
-## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">Web Development</span><span style="color:#3a87ce">></span>
+## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">'Web Development'</span><span style="color:#3a87ce">></span>
 ![HTML5](https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
 ![CSS](https://img.shields.io/static/v1?message=Css&logo=css3&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
@@ -34,7 +34,7 @@
 ![jQuery](https://img.shields.io/static/v1?message=jquery&logo=jquery&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
 ## <span style="color:#3a87ce"><*/Skills*></span>
 
-## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">Libraries and Packages</span><span style="color:#3a87ce">></span>
+## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">'Libraries and Packages'</span><span style="color:#3a87ce">></span>
 ![Selenium](https://img.shields.io/static/v1?message=selenium&logo=selenium&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
 ![PyTube](https://img.shields.io/static/v1?message=pytube&logo=youtube&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/static/v1?message=matplotlib&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
@@ -42,7 +42,7 @@
 ![OpenPyxl](https://img.shields.io/static/v1?message=openpyxl&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
 ## <span style="color:#3a87ce"><*/Skills*></span>
 
-## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">Tools</span><span style="color:#3a87ce">></span>
+## <span style="color:#3a87ce"><*Skills* </span><span style="color:#00E3FF">*domain*=</span><span style="color:#E59C1D">'Tools'</span><span style="color:#3a87ce">></span>
 ![VSCode](https://img.shields.io/static/v1?message=VS%20Code&logo=visual-studio-code&labelColor=5c5c5c&color=E800CE&logoColor=white&label=%20&style=for-the-badge)
 ![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=E800CE&logoColor=white&label=%20&style=for-the-badge)
 ![GitHub](https://img.shields.io/static/v1?message=github&logo=github&labelColor=5c5c5c&color=E800CE&logoColor=white&label=%20&style=for-the-badge)
