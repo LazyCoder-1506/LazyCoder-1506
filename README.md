@@ -50,7 +50,7 @@
 
 <br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyCoder-1506&show_icons=true&theme=tokyonight&title_color=FFA033)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyCoder-1506&show_icons=true&theme=tokyonight&title_color=FFA033&hide=stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCoder-1506&layout=compact)
 
