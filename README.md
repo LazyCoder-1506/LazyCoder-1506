@@ -1,31 +1,20 @@
 # 👋 Hi there, I am **Pranayan Metiya**, aka [*LazyCoder-1506*](https://github.com/LazyCoder-1506)
-
-<br>
-
 > Busy juggling a part-time job, freelance projects and self-learning while balancing on an adventurous boat called college 🤹⛵
-
 <br>
 
 ___
 
-<br>
 
 ## [<img src="LI-In-Bug.png" width="26">](https://www.linkedin.com/in/pranayan-metiya-75b12a1a3/) Connect on Linkedin
-
-## [<img src="resume.jpg" width="26">](https://drive.google.com/file/d/1GOXfCyYXKkkOQFVx_nIGvPHvoiy1MNsK/view?usp=sharing) See my resume
-
-<br>
+## [<img src="resume.jpg" width="26">](https://drive.google.com/file/d/1xqOT7cByP4qBpVbWkLeUhh61YS0gtSvp/view?usp=sharing) See my resume
 
 ___
 
-<br>
 
 * 💸 **Hire Me** - Open to short freelancing projects in frontend development and web automation
 * 🎯 **Goal** - Looking to contribute more to Open Source
 * 🏫 **Career** - Preparing for upcoming internship drive
 * 😎 **Fun Fact** - You did not realise my resume is actually made as an HTML page and converted to PDF
-
-<br>
 
 ___
 
