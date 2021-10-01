@@ -1,6 +1,5 @@
 # 👋 Hi there, I am **Pranayan Metiya**, aka [*LazyCoder-1506*](https://github.com/LazyCoder-1506)
 > Busy juggling a part-time job, freelance projects and self-learning while balancing on an adventurous boat called college 🤹⛵
-<br>
 
 ___
 
