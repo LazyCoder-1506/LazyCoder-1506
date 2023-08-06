@@ -1,18 +1,16 @@
 # 👋 Hi there, I am **Pranayan Metiya**, aka [*LazyCoder-1506*](https://github.com/LazyCoder-1506)
-> Busy juggling a part-time job, freelance projects and self-learning while balancing on an adventurous boat called college 🤹⛵
+> Just deboarded the university cruise ship. Now looking to jump on a rocket ship company and reach the stars 🚀🌟
 
 ___
 
 
-## [<img src="LI-In-Bug.png" width="26">](https://www.linkedin.com/in/pranayan-metiya-75b12a1a3/) Connect on Linkedin
-## [<img src="resume.jpg" width="26">](https://drive.google.com/file/d/1xqOT7cByP4qBpVbWkLeUhh61YS0gtSvp/view?usp=sharing) See my resume
-
-___
+## [<img src="LI-In-Bug.png" width="26">  Connect on Linkedin](https://www.linkedin.com/in/pranayan-metiya-75b12a1a3/)
+## [<img src="resume.jpg" width="26">  See my resume](https://drive.google.com/file/d/1xqOT7cByP4qBpVbWkLeUhh61YS0gtSvp/view?usp=sharing)
 
 
-* 💸 **Hire Me** - Open to short freelancing projects in frontend development and web automation
-* 🎯 **Goal** - Looking to contribute more to Open Source
-* 🏫 **Career** - Preparing for upcoming internship drive
+
+* 🎯 **Goal** - Learning more tricks and constantly levelling up my development skills to build awesome projects
+* 🏫 **Career** - Entering the fulltime corporate phase, looking for new challenges
 * 😎 **Fun Fact** - You did not realise my resume is actually made as an HTML page and converted to PDF
 
 ___
@@ -22,37 +20,47 @@ ___
 ## 💻 Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
-![C++](https://img.shields.io/static/v1?message=Cpp&logo=c%2B%2B&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
-![Java](https://img.shields.io/static/v1?message=java&logo=java&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Web Development
-![HTML5](https://img.shields.io/static/v1?message=html&logo=html5&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
-![CSS](https://img.shields.io/static/v1?message=Css&logo=css3&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
-![Bootstrap](https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
-![Javascript](https://img.shields.io/static/v1?message=javascript&logo=javascript&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
-![jQuery](https://img.shields.io/static/v1?message=jquery&logo=jquery&labelColor=5c5c5c&color=brightgreen&logoColor=white&label=%20&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Libraries and Packages
-![Selenium](https://img.shields.io/static/v1?message=selenium&logo=selenium&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
-![PyTube](https://img.shields.io/static/v1?message=pytube&logo=youtube&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
-![Matplotlib](https://img.shields.io/static/v1?message=matplotlib&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
-![Tkinter](https://img.shields.io/static/v1?message=tkinter&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
-![OpenPyxl](https://img.shields.io/static/v1?message=openpyxl&labelColor=5c5c5c&color=orange&logoColor=white&label=%20&style=for-the-badge)
+### Helper Libraries
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Tools
 
-![VSCode](https://img.shields.io/static/v1?message=VS%20Code&logo=visual-studio-code&labelColor=5c5c5c&color=E800CE&logoColor=white&label=%20&style=for-the-badge)
-![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=5c5c5c&color=E800CE&logoColor=white&label=%20&style=for-the-badge)
-![GitHub](https://img.shields.io/static/v1?message=github&logo=github&labelColor=5c5c5c&color=E800CE&logoColor=white&label=%20&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 <br>
 
 ___
 
 <br>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyCoder-1506&show_icons=true&theme=tokyonight&title_color=FFA033&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyCoder-1506&layout=compact)
 
